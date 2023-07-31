@@ -1,22 +1,14 @@
-Welcome to Lumache's documentation!
+Welcome to A2S's documentation!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
-
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
-
-.. note::
-
-   This project is under active development.
-
-Contents
---------
+TODO: Expand the main page with information about the `Institute for Artificial Intelligence and Autonomous Systems (A2S)  <https://www.h-brs.de/en/institute-for-artificial-intelligence-autonomous-systems>`_
 
 .. toctree::
+   :titlesonly:
+   :maxdepth: 2
+   :hidden:
+   :caption: Robots
 
-   usage
-   api
+   robots/youbot
+   robots/toyota-hsr
+

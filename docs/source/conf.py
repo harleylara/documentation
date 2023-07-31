@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'A2S - Documentation'
+copyright = '2023, https://www.h-brs.de/en/institute-for-artificial-intelligence-autonomous-systems'
+author = 'A human'
 
 release = '0.1'
 version = '0.1.0'

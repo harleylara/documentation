@@ -1,0 +1,4 @@
+sphinx
+sphinx-autobuild
+rstcheck
+sphinx-rtd-theme
