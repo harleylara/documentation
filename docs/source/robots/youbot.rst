@@ -3,6 +3,8 @@ youBot
 
 Number of robots availables: 2?
 
+Manufactured by: `KUKA <https://www.kuka.com/de-de>`_
+
 Official Documentation (for more detailed information): `youBot Wiki <http://www.youbot-store.com/wiki/index.php/Main_Page>`_
 
 - Companion computer: `Intel NUC <https://www.intel.com/content/www/us/en/products/details/nuc/kits/products.html>`_

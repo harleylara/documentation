@@ -6,10 +6,13 @@ TODO: Expand the main page with information about the `Institute for Artificial 
 .. toctree::
    :titlesonly:
    :maxdepth: 2
-   :hidden:
    :caption: Robots
 
    robots/sensors
    robots/youbot
    robots/toyota-hsr
+   robots/robile
+   robots/freddy
+   robots/qtrobot
+   robots/nao
 
