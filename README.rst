@@ -1,9 +1,4 @@
-Template for the Read the Docs tutorial
-=======================================
+A2S HBRS - Documentation
+========================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
-
-Read the tutorial here:
-
-https://docs.readthedocs.io/en/stable/tutorial/
+A entry point for documentation of the [Institute for Artificial Intelligence and Autonomous Systems (A2S)](https://www.h-brs.de/en/institute-for-artificial-intelligence-autonomous-systems).
