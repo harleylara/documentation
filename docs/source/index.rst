@@ -9,6 +9,7 @@ TODO: Expand the main page with information about the `Institute for Artificial 
    :hidden:
    :caption: Robots
 
+   robots/sensors
    robots/youbot
    robots/toyota-hsr
 
